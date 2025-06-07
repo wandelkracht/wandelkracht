@@ -1,0 +1,23 @@
+# Wandelkracht.nl
+
+Portfolio: Website
+
+
+### Credits:
+
+	Images:
+		Evelien Moes
+
+	Pre-Built
+		Story by html5up.net | @ajlkn | AJ j@lkn.io | 
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+	DevOps:
+		Andreas Hulspas
