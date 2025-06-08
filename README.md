@@ -8,7 +8,7 @@ Services Website
 	Images:
 		Evelien Moes
 
-	Pre-Built
+	Pre-Built:
 		Story by html5up.net | @ajlkn | AJ j@lkn.io | 
 
 	Icons:
