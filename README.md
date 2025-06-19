@@ -5,7 +5,7 @@ Services Website
 
 ### Credits:
 
-	Images:
+	Content & Images:
 		Evelien Moes
 
 	Pre-Built:
